@@ -4,13 +4,13 @@
 
 The main purpose of this paper is to perform sentiment analysis on Amazon product reviews and classify each review into positive , negative or neutral sentiment. 
 
-**Research Questions:**
+# Research Questions:
 
 - Which pre-processing methods give better results when passing pre-processed data to ML Model?
 
 - What are the suitable Machine Learning models?
 
-**Application of Data mining techniques to predict sentiment of Amazon product reviews:**
+# Application of Data mining techniques to predict sentiment of Amazon product reviews:
 
 - Implementation of CRISP-DM method
 
@@ -19,7 +19,7 @@ The main purpose of this paper is to perform sentiment analysis on Amazon produc
 - Pre-processing techniques: Text-Blob , NLTK -Natural Language Toolkit , SpaCy
 
 
-**Building Statistical Models and its Evaluation:**
+# Building Statistical Models and its Evaluation:
 
 - Vectorizing methods: Count-Vectorizer and TfidfVectorizer
 
@@ -27,7 +27,7 @@ The main purpose of this paper is to perform sentiment analysis on Amazon produc
 
 - Evaluation – Accuracy Train , Accuracy Test , Precision , Recall and F1 Score
 
-**Results and Findings**
+# Results and Findings 
 
 - F1 Score is the used to determine the best performing model because the score provides the Harmonic mean of Accuracy and Precision of a given model
 
